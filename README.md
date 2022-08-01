@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Everyone 👋
 
 <!--
 **suttanariiq/suttanariiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :computer: I'm currently study at Diponegoro University Majoring in Informatics
+- 🌱 I'm currently interested in learning web programming
+- :fire: Fun Fact : i want to learn about Web Programming or coding but i don't know where to go :sweat_smile:
